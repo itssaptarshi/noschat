@@ -1,0 +1,12 @@
+h1{
+  color:#036603;
+  margin: 40px;
+  text-align: center;
+  /* width: 50rem; */
+}
+p{
+  text-align: center;
+}
+body{
+  background-color: #ddd;
+}
